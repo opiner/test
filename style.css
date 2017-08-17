@@ -1,0 +1,4 @@
+body{background-color:#778899; width:100%; padding:0px; margin:0px;}
+h1{color:#191970;font-family:"Arial Black", Gadget, sans-serif; padding-left:10%}
+#FORM{width:50%; background-color:#FFF; min-height:400px; margin:auto; text-align:center}
+input[type=text]{margin-right:5%; height:30px; width:80%; color:#9CF; padding-bottom:10px; margin-top:10px}
